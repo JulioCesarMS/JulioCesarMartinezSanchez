@@ -9,8 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  <div id="Projects/Delitos_práctica.html" style="width:100%;height:216px;" class="leaflet html- widget"></div>
 
   <script type="application/json" data-for="Projects/Delitos_práctica.html">
-    {"x":{"options": ...
-<!--more funky code here-->
+
   
   
 ### Markdown
