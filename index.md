@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/JulioCesarMS/Julio-Cesar-M
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-[editor on GitHub](https://github.com/JulioCesarMS/JulioCesarMartinezSanchez/Delitos_práctica.html)
+[editor on GitHub](https://github.com/JulioCesarMS/Julio-Cesar-Martinez-Sanchez/edit/gh-pages/index.html)
   
   
 ### Markdown
