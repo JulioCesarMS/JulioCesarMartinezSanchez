@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/JulioCesarMS/Julio-Cesar-M
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[editor on GitHub](https://github.com/JulioCesarMS/Projects/Delitos_práctica.html)
+[Delitos](https://github.com/JulioCesarMS/JulioCesarMartinezSanchez/Projects/Delitos_práctica.html)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
