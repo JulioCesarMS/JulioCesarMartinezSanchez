@@ -5,11 +5,8 @@ You can use the [editor on GitHub](https://github.com/JulioCesarMS/Julio-Cesar-M
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<!--html_preserve-->
- <div id="Projects/Delitos_práctica.html" style="width:100%;height:216px;" class="leaflet html- widget"></div>
 
-  <script type="application/json" data-for="Projects/Delitos_práctica.html">
-
+[editor on GitHub](https://github.com/JulioCesarMS/Julio-Cesar-Martinez-Sanchez/edit/gh-pages/Projects/Delitos_práctica.html)
   
   
 ### Markdown
